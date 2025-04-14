@@ -2,6 +2,7 @@ import express from 'express';
 import dotenv from 'dotenv';
 dotenv.config();
 
+// Importing the express module
 const app = express();
 const PORT = 3000;
 
